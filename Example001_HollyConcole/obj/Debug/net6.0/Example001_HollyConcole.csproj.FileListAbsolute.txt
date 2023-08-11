@@ -1,0 +1,15 @@
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\bin\Debug\net6.0\Example001_HollyConcole.exe
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\bin\Debug\net6.0\Example001_HollyConcole.deps.json
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\bin\Debug\net6.0\Example001_HollyConcole.runtimeconfig.json
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\bin\Debug\net6.0\Example001_HollyConcole.dll
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\bin\Debug\net6.0\Example001_HollyConcole.pdb
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\obj\Debug\net6.0\Example001_HollyConcole.csproj.AssemblyReference.cache
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\obj\Debug\net6.0\Example001_HollyConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\obj\Debug\net6.0\Example001_HollyConcole.AssemblyInfoInputs.cache
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\obj\Debug\net6.0\Example001_HollyConcole.AssemblyInfo.cs
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\obj\Debug\net6.0\Example001_HollyConcole.csproj.CoreCompileInputs.cache
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\obj\Debug\net6.0\Example001_HollyConcole.dll
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\obj\Debug\net6.0\refint\Example001_HollyConcole.dll
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\obj\Debug\net6.0\Example001_HollyConcole.pdb
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\obj\Debug\net6.0\Example001_HollyConcole.genruntimeconfig.cache
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\Examples\Example001_HollyConcole\obj\Debug\net6.0\ref\Example001_HollyConcole.dll
